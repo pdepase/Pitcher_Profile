@@ -1,4 +1,4 @@
-# Pitcher_Profile
+# Pitcher_Profile_Shiny_App
 Vizualizations of Publicly Available Pitcher Metrics
 
 All data from the 2024 season. 
